@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown Project
-subtitle: This was my first markdown project.
+subtitle: This was my first markdown project
 cover-img: /assets/img/mountain.jpg
 share-img: /assets/img/mountain.jpg
 
