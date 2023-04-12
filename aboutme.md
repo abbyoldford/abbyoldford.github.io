@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Abby Oldford. I am a Kinesiology undergraduate student at the University of Calgary, majoring in Coaching and Leadership with an Embedded Certificate in Mental Wellbeing and Resilience. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Prior to signing up for KNES 381, I would say my computer skills were basic, however this course has provided me with so many skills and tools that I look forward to using in the future. I created this website to highlight some of the tools I have learned. 
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I would describe myself as an active person who enjoys weightlifting and being outdoors, therefore you will see a lot of fitness related activity throughout this website, in fact most of the scenery photos were taken by me! 
