@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video Analysis
-subtitle: Analysis of two barbell squats, using dartfish. 
+subtitle: Analysis of two barbell squats using dartfish
 cover-img: /assets/img/barbell.jpg
 share-img: /assets/img/barbell.jpg
 ---
