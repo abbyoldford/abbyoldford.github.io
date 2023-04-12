@@ -14,5 +14,5 @@ This route represents thte 8 km run I completed along the bow river.
 <img src="/assets/img/hrspeed.png" alt="Speed and Heart Rate Throughout Run">  
 This figure shows my speed and heart rate as a function of time throughout the run.
 
-<img src="/assets/img/hrzones.png" alt="Heartrate Zones Analysis"> 
+<img src="/assets/img/hrzones.png" alt="Heartrate Zones Analysis">  
 I analyzed my heart rate throughout the duration of my run and found that for the majority of it, I was in zone five with a heart rate close to max.
